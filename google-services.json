@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342885199580",
+    "firebase_url": "https://uasaja-966c0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uasaja-966c0",
+    "storage_bucket": "uasaja-966c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342885199580:android:85fa9a43a66ad599e20e19",
+        "android_client_info": {
+          "package_name": "com.example.uas_aja_10118331"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342885199580-ij9q723bta1ud4cbj70gi0a3lb5n1qpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpzLMv9z_Y5F3yTGZakp9R2olOg-v4S7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342885199580-ij9q723bta1ud4cbj70gi0a3lb5n1qpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
